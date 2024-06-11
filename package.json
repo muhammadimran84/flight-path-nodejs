@@ -1,0 +1,16 @@
+{
+  "name": "flightservice",
+  "version": "1.0.0",
+  "description": "## Overview This microservice API helps track a person's flight path by sorting unordered flight segments to determine the total flight path from start to end.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
